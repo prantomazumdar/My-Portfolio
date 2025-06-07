@@ -41,13 +41,15 @@ Besides academics, I run my own business and create music in my free time.
 
 ## 🌱 GitHub Stats for Pranto Mazumdar
 
- ![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantomazumdar&show_icons=true&theme=radical&hide=contribs&count_private=true)
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?prantomazumdar=prantomazumdar&show_icons=true&forest_theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?prantomazumdar=prantomazumdar&layout=compact&langs_count=6&forest_theme=github_dark&hide_border=true&hide=html,css,scss,shell" alt="Top Languages" width="48%"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantomazumdar&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=prantomazumdar&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prantomazumdar&theme=radical)
+<!-- Optional streak stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prantomazumdar&forest_theme=github-dark&hide_border=true" alt="GitHub Streak" width="96%" />
+</p>
 
 > *“Growing knowledge like leaves on a tree – one commit at a time 🌿”*
 
