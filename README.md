@@ -41,13 +41,13 @@ Besides academics, I run my own business and create music in my free time.
 
 ## 🌱 GitHub Stats for Pranto Mazumdar
 
-![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrantoMazumdar&show_icons=true&theme=forest&hide_title=true&hide_border=true&icon_color=8BC34A&text_color=4CAF50)
+ ![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantomazumdar&show_icons=true&theme=radical&hide=contribs&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoMazumdar&layout=compact&theme=forest&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantomazumdar&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrantoMazumdar&theme=green-fire&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=prantomazumdar&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=PrantoMazumdar&theme=onestar&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prantomazumdar&theme=radical)
 
 > *“Growing knowledge like leaves on a tree – one commit at a time 🌿”*
 
