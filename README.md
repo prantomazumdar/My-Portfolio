@@ -41,9 +41,9 @@ Besides academics, I run my own business and create music in my free time.
 
 ## 🌱 GitHub Stats for Pranto Mazumdar
 
- ![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrantoMazumdar&show_icons=true&theme=forest&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=C8E6C9)
+ ![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?Prantomazumdar=PrantoMazumdar&show_icons=true&theme=forest&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=C8E6C9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoMazumdar&layout=compact&theme=forest&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=C8E6C9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?PrantoMazumdar=PrantoMazumdar&layout=compact&theme=forest&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=C8E6C9)
 
 
 > *“Growing knowledge like leaves on a tree – one commit at a time 🌿”*
