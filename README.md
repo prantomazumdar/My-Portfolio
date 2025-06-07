@@ -41,15 +41,10 @@ Besides academics, I run my own business and create music in my free time.
 
 ## 🌱 GitHub Stats for Pranto Mazumdar
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?prantomazumdar=prantomazumdar&show_icons=true&forest_theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?prantomazumdar=prantomazumdar&layout=compact&langs_count=6&forest_theme=github_dark&hide_border=true&hide=html,css,scss,shell" alt="Top Languages" width="48%"/>
-</p>
+ ![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrantoMazumdar&show_icons=true&theme=forest&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=C8E6C9)
 
-<!-- Optional streak stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prantomazumdar&forest_theme=github-dark&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoMazumdar&layout=compact&theme=forest&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=C8E6C9)
+
 
 > *“Growing knowledge like leaves on a tree – one commit at a time 🌿”*
 
